@@ -1,2 +1,2 @@
-# Pruebas-Programacion
+# Pruebas Programacion
 >Universidad: Programación
