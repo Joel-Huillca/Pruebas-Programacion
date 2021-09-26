@@ -4,7 +4,7 @@ def desplegarUnidadesFalla(listaUnidades,listaCantFallas):
     for x in range(len(listaCantFallas)):
         if listaCantFallas[x] == cantMayor:
             print(">",listaUnidades[x]) 
-  a
+
 listaUnidades = []
 listaCantFallas = []
 listaFunCompBuenos = []
