@@ -3,7 +3,7 @@ def desplegarUnidadesFalla(listaUnidades,listaCantFallas):
     cantMayor = max(listaCantFallas)
     for x in range(len(listaCantFallas)):
         if listaCantFallas[x] == cantMayor:
-            print(">",listaUnidades[x])
+            print(">",listaUnidades[x]) 
 
 listaUnidades = []
 listaCantFallas = []
